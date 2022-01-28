@@ -1,6 +1,6 @@
 fuzadu 1
-hao 2
-ni 2
+hao 3
+ni 3
 qi 1
 qiqiu 3
 qiu 1
