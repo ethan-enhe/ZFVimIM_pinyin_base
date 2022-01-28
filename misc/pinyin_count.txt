@@ -1,3 +1,4 @@
 hao 2
 ni 2
 zai 1
+zhong 1
