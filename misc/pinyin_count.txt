@@ -1,2 +1,2 @@
-hao 1
-ni 1
+hao 2
+ni 2
