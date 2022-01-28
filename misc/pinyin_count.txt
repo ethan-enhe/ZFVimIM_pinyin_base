@@ -1,4 +1,7 @@
 hao 2
 ni 2
+qi 1
+qiqiu 2
+qiu 1
 zai 1
 zhong 1
