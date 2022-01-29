@@ -1,3 +1,5 @@
+biao 1
+biaoxianshi 1
 fa 1
 fuzadu 1
 hao 3
@@ -5,6 +7,8 @@ ni 3
 qi 1
 qiqiu 3
 qiu 1
+shi 1
 wen 1
+xian 1
 zai 1
 zhong 2
