@@ -5,7 +5,11 @@ de 1
 fa 1
 fuzadu 1
 hao 3
+huan 1
+jiao 1
+jiaohuan 1
 ke 1
+lin 1
 ni 3
 qi 1
 qiqiu 3
@@ -13,6 +17,8 @@ qiu 1
 shi 1 1
 wen 1
 xian 1
+xiang 1
+xianglin 1
 yi 1
 zai 1
 zhong 2
