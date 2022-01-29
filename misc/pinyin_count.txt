@@ -1,6 +1,7 @@
 biao 2
 biaoshi 1
 biaoxianshi 1
+de 1
 fa 1
 fuzadu 1
 hao 3
